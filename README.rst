@@ -16,5 +16,7 @@ Instalacion
     $ git clone https://github.com/jgglez79/djangoproject17.git
 
     $ mkvirtualenv djangoproject17
+
     $ workon djangoproject17
+
     $ pip install -r requirements.txt
