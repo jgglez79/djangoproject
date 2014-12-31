@@ -1,0 +1,10 @@
+body
+{
+    background: url("images/background.jpg") fixed no-repeat right bottom;
+}
+
+
+li a
+{
+    color: green;
+}
